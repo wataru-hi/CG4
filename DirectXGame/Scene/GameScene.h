@@ -1,6 +1,8 @@
 #pragma region
 #include "KamataEngine.h"
 
+using namespace KamataEngine;
+
 class GameScene
 {
 public:
@@ -12,4 +14,5 @@ public:
 
 	//描画
 	void Draw();
+
 };
